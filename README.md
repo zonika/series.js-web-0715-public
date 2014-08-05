@@ -8,6 +8,8 @@ tags: arrays, slicing, nested iteration
 
 Run `npm install`
 
+Review the `series.js` file inside the `lib` directory, and then the `series.spec.js` file inside the `spec` directory. Review each of the tests, and then start implementing your solutions to make each test pass in `series.js`.
+
 ## Tests
 
 Run `grunt watch` then edit your files. Grunt will watch for changes. Grunt

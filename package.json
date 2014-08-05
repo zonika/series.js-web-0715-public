@@ -1,6 +1,10 @@
 {
   "name": "Series",
   "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:flatiron-school-curriculum/series.js.git"
+  },
   "description": "Series",
   "dependencies": {
     "grunt": "~0.4.1",
