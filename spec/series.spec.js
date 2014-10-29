@@ -1,7 +1,5 @@
 'use strict';
 
-var Series = require('../lib/series');
-
 describe('Series', function () {
 
   it('has digits (short)', function () {
