@@ -1,8 +1,3 @@
----
-languages: javascript
-tags: arrays, slicing, nested iteration
----
-
 # Series
 ## How it Should Work
 ```javascript
